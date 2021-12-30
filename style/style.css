@@ -44,6 +44,7 @@ img{
 .logo{
     font-size: 40px;
     color: #FFFFFF;
+    padding-left: 20px;
 }
 
 .logo-content{
@@ -65,5 +66,32 @@ img{
     border: 1px solid red;
     padding: 10px 15px;
     margin-bottom: 25px;
+}
+.img-hero{
+    margin-bottom: 25px;
+}
+.container-item{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.contend-facebook{
+    margin-bottom: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+hr{
+    margin-bottom: 20px;
+}
+.title-facebook a{
+    display: inline-block;
+    color: #000;
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+.title-facebook:hover a{
+    color: red;
+    text-decoration: none;
+    transition: 0.3s;
 }
 
